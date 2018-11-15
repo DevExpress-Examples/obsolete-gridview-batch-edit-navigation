@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Global.asax](./CS/Global.asax) (VB: [Global.asax](./VB/Global.asax))
+* [Global.asax.cs](./CS/Global.asax.cs) (VB: [Global.asax](./VB/Global.asax))
+* [TestModel.cs](./CS/Models/TestModel.cs) (VB: [TestModel.vb](./VB/Models/TestModel.vb))
+* [GridViewPartial.cshtml](./CS/Views/Home/GridViewPartial.cshtml)
+* **[Index.cshtml](./CS/Views/Home/Index.cshtml)**
+<!-- default file list end -->
 # OBSOLETE - GridView - How to implement navigation by Up/Left/Down/Right keyboard arrows in the Batch Edit mode 
 
 
