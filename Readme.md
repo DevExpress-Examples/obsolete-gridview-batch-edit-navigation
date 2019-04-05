@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Global.asax](./CS/Global.asax) (VB: [Global.asax](./VB/Global.asax))
-* [Global.asax.cs](./CS/Global.asax.cs) (VB: [Global.asax](./VB/Global.asax))
+* [Global.asax.cs](./CS/Global.asax.cs) (VB: [Global.asax.vb](./VB/Global.asax.vb))
 * [TestModel.cs](./CS/Models/TestModel.cs) (VB: [TestModel.vb](./VB/Models/TestModel.vb))
 * [GridViewPartial.cshtml](./CS/Views/Home/GridViewPartial.cshtml)
 * **[Index.cshtml](./CS/Views/Home/Index.cshtml)**
